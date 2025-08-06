@@ -12,6 +12,6 @@ class Settings(BaseSettings):
     access_token_expire_minutes: int
 
     class Config:
-        env_file="../.env"
+        env_file="C:/Users/shnai/Desktop/new_fast_api/.env"
 
 settings = Settings() 

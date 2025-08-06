@@ -1,5 +1,4 @@
 __pycache__
 enviro/
 .env
-alembic 
-alembic.ini
+Dockerfile
