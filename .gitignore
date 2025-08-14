@@ -1,6 +1,5 @@
 __pycache__
 enviro/
 .env
-Dockerfile
 docker-compose-dev.yml
 docker-compose-prod.yml
