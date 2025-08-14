@@ -1,7 +1,6 @@
 name: Build and Deploy Code
 on: [push, pull_request]
-env:
-    DATABASE_HOSTNAME: ${{secrets.DATABASE_HOSTNAME}}
+
 jobs:
     build:
         environment:
